@@ -6,6 +6,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
  * Created by Administrator on 2016/6/3.
+ * by alanfans
  */
 public class Test {
     public static void main(String[] args) {
